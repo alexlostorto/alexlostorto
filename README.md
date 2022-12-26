@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 
 <p align="center">I'm conaticus, a programmer, content creator.</p>
 
-<p align="center">
-  <a href="https://github.com/conaticus?tab=followers">
-    <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://youtube.com/conaticus?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
-  </a>
-</p>
 
 ## Skills
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /> C
