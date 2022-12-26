@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
 
 <p align="center">I'm Alex, a programmer.</p>
 
