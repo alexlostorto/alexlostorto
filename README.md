@@ -1,6 +1,6 @@
-### Hi there 👋
+<p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
 
-Here are some ideas to get you started:
+<p align="center">I'm Alex, a programmer.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lostorto.business@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
-
-<p align="center">I'm Alex, a programmer.</p>
 
 
 ## Skills 
