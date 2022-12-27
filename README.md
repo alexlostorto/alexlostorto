@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on polishing my website portfolio
 - 🌱 I’m currently learning React.js and other web development frameworks
-- 😃 I’m looking to 
+- 😃 I’m looking to connect with other like-minded people (maybe I'll finally be able to understand JS!)
 - 📫 Business enquiries: lostorto.business@gmail.com
 - ⚡ Fun fact: I do photography!
 
