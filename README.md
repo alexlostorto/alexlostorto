@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
 
-<p align="center">I'm Alex!</p>
+<p align="center">Call me Alex!</p>
 
 - 🔭 I’m currently working on polishing my website portfolio
 - 🌱 I’m currently learning React.js and other web development frameworks
