@@ -2,14 +2,11 @@
 
 <p align="center">I'm Alex, a programmer.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: lostorto.business@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on polishing my website portfolio
+- 🌱 I’m currently learning React.js and other web development frameworks
+- 😃 I’m looking to 
+- 📫 Business enquiries: lostorto.business@gmail.com
+- ⚡ Fun fact: I do photography!
 
 
 ## Skills 
@@ -21,11 +18,6 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" /> HTML
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" /> CSS
-
-
-
-## How to reach me?
-Business Enquiries: lostorto.business@gmail.com
 
 <p align="center">
   <img width="1000%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
