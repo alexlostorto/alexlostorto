@@ -13,10 +13,10 @@
 
 <table>
   <tr>
-    <p>Python</p>
-    <p>Javascript</p>
-    <p>HTML</p>
-    <p>CSS</p>
+    <td><p>Python</p></td>
+    <td>Javascript</td>
+    <td>HTML</td>
+    <td>CSS</td>
   <tr>
     <td>Emil</td>
     <td>Tobias</td>
