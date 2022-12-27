@@ -9,7 +9,20 @@
 - ⚡ Fun fact: I do photography!
 
 
-## Skills 
+<h1 align="center">Skills</h1>
+
+<table>
+  <tr>
+    <p>Python</p>
+    <p>Javascript</p>
+    <p>HTML</p>
+    <p>CSS</p>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
