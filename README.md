@@ -11,27 +11,9 @@
 
 <h1 align="center">Skills</h1>
 
-<table>
-  <tr>
-    <td><p>Python</p></td>
-    <td>Javascript</td>
-    <td>HTML</td>
-    <td>CSS</td>
-  <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
-  </tr>
-</table>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" width="22"> Python | <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> Javascript | <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" /> HTML | <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" /> CSS
+------------ | ------------- | ------------- | -------------
 
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> Javascript
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" /> HTML
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" /> CSS
-
-<p align="center">
-  <img width="1000%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
+<p>
+  <img width="97.5%" src="https://github.com/alexlostorto/alexlostorto/raw/main/projects.gif" alt="pic image here" />
 </p>
