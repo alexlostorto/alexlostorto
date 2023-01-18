@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Stats:
 <p float='left'>
-<img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=alexlostorto&theme=swift&hide_border=false"/>
-<img height="210" src="https:/github-readme-stats-mu-gold.vercel.app/api/?username=alexlostorto&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=alexlostorto&theme=vision-friendly-dark&hide_border=true"/>
+<img height="210" src="https://github-readme-stats-alexlostorto.vercel.app/api/top-langs?username=alexlostorto&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <p>
