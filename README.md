@@ -1,12 +1,19 @@
 <p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
 
-<p align="center">Call me Alex!</p>
+```python
+class AboutMe: 
+  full_name = "Alex lo Storto" 
+  languages = ["GB", "ES"]
+  
+  def fetch_interests(self): 
+    return ["Web development", "Cycling", "Karate", "Photography", "Meeting people!"]
 
-- 🔭 I’m currently working on polishing my website portfolio
-- 🌱 I’m currently learning React.js and other web development frameworks
-- 😃 I’m looking to connect with other like-minded people (maybe I'll finally be able to understand JS!)
-- 📫 Business enquiries: lostorto.business@gmail.com
-- ⚡ Fun fact: I do photography!
+  def fun_fact(self): 
+    return "I'm half Italian, half Indonesian!"
+    
+  def programming_languages(self): 
+    return ["python", "javascript", "c#"]
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexlostorto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lostorto.business@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lo-storto-88796a257/) 
