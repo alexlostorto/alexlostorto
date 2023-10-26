@@ -1,4 +1,15 @@
-<p align="center"><img width="30%" src="https://github.com/alexlostorto/alexlostorto/raw/main/lang.gif" alt="lang image here" /></p>
+<div align="center">
+  [![][logo-url]][repo-url]  
+  
+  **Flashcards Brought to Life**  
+  [ [Try it out ↗︎][repo-url] ]
+</div>
+
+[![][banner-url]][repo-url]  
+
+[logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-logo.svg
+[repo-url]: https://plani.org.uk/
+[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.gif
 
 ```python
 class AboutMe: 
