@@ -1,8 +1,10 @@
 <div align="center">
+  
   [![][logo-url]][repo-url]  
   
   **Flashcards Brought to Life**  
   [ [Try it out ↗︎][repo-url] ]
+  
 </div>
 
 [![][banner-url]][repo-url]  
