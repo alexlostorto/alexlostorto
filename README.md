@@ -9,7 +9,7 @@
 
 [logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-logo.png
 [repo-url]: https://plani.org.uk/
-[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.gif
+[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.png
 
 ```python
 class AboutMe: 
