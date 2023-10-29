@@ -7,11 +7,13 @@
   
 </div>
 
-[![][banner-url]][repo-url]  
+[![][banner-url]][repo-url]
+[![][badges-url]][repo-url]
 
 [logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-logo.png
 [repo-url]: https://plani.org.uk/
 [banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.png
+[badges-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-specs.png
 
 ```python
 class AboutMe: 
