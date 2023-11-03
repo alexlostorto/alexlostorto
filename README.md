@@ -33,7 +33,7 @@ class AboutMe:
 <!-- COLOURS
 
 1: FADAEA
-2: F3DOEA
+2: F3D0EA
 3: EAC6EA
 4: E3BCEA
 5: DBB2E9
@@ -51,19 +51,42 @@ class AboutMe:
 -->
 
 ## 💻 Languages
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=python&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-FADAEA.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-F3D0EA.svg?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-EAC6EA.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-E3BCEA?style=for-the-badge&logo=python&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-DBB2E9?style=for-the-badge&logo=node.js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-D3A8E9.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-C394E8.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Sass](https://img.shields.io/badge/sass-C394E8?style=for-the-badge&logo=python&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-BB8BE8.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-B481E8.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ## 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-4c4c4c.svg?style=for-the-badge&logo=Firebase&logoColor=#FFCA28)
+![MySQL](https://img.shields.io/badge/mysql-FADAEA.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-F3D0EA.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-EAC6EA.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 🔨 **Tools**
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white) ![ps](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-FADAEA.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F3D0EA?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-EAC6EA.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-E3BCEA.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-DBB2E9.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-D3A8E9.svg?style=for-the-badge&logo=git&logoColor=white) 
+![ps](https://img.shields.io/badge/powershell-C394E8?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## ⌨️ **IDEs**
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-97ca00?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-FADAEA?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Replit](https://img.shields.io/badge/Replit-F3D0EA?style=for-the-badge&logo=Replit&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/pycharm-EAC6EA?style=for-the-badge&logo=pycharm&logoColor=white&color=EAC6EA&labelColor=EAC6EA)
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexlostorto/) [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alexlostorto) [![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexlostorto) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lostorto.business@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lo-storto-88796a257/) 
+[![Instagram](https://img.shields.io/badge/Instagram-FADAEA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexlostorto/) 
+[![Youtube](https://img.shields.io/badge/Youtube-F3D0EA?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alexlostorto) 
+[![Tiktok](https://img.shields.io/badge/Tiktok-EAC6EA?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alexlostorto) 
+[![Gmail](https://img.shields.io/badge/Gmail-E3BCEA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lostorto.business@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DBB2E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lo-storto-88796a257/) 
 
 <details>
   <summary>
