@@ -30,6 +30,26 @@ class AboutMe:
     return ["python", "javascript", "c#"]
 ```
 
+<!-- COLOURS
+
+1: FADAEA
+2: F3DOEA
+3: EAC6EA
+4: E3BCEA
+5: DBB2E9
+6: D3A8E9
+7: CB9FE9
+8: C394E8
+9: BB8BE8
+10: B481E8
+11: AB77E8
+12: A46DE7
+13: 9C63E7
+14: 9459E7
+15: 8C4FE7
+
+-->
+
 ## 💻 Languages
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=python&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
