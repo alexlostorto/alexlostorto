@@ -1,0 +1,13 @@
+{
+  "name": "alexlostorto",
+  "version": "1.0.0",
+  "description": "GitHub ReadMe",
+  "main": "src/update.js",
+  "repository": "https://github.com/alexlostorto/alexlostorto",
+  "author": "Alex <3 <lostorto.business@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}
