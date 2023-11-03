@@ -22,10 +22,10 @@ const WriteReadMe = async () => {
 [![][banner-url]][repo-url]
 [![][badges-url]][repo-url]
 
-[logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-logo.png
+[logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/assets/flashi-logo.png
 [repo-url]: https://plani.org.uk/
-[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.png
-[badges-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-specs.png
+[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/assets/flashi-banner.png
+[badges-url]: https://github.com/alexlostorto/alexlostorto/raw/main/assets/flashi-specs.png
 
 \`\`\`python
 class AboutMe: 
