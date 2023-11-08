@@ -2,8 +2,6 @@ const path = require("path");
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-WriteReadMe();
-
 const WriteReadMe = async () => {
   //Get ReadMe path
   const ReadMe = path.join(__dirname, "..", "README.md");
@@ -140,3 +138,5 @@ class AboutMe:
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);
 };
+
+WriteReadMe();
